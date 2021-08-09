@@ -17,3 +17,10 @@ this bot include features like :
   7. to search a song 
      example : !search song_name
      
+     Working video:
+       
+
+https://user-images.githubusercontent.com/73778637/128754237-80c8946d-e724-41e1-898c-92cea043c11e.mp4
+
+
+     
